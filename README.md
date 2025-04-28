@@ -18,8 +18,7 @@ Atualmente, o repositório contempla os seguintes projetos:
 | Projeto | Descrição |
 |:--------|:----------|
 | **cnn-libras-master-oficial** | Reconhecimento de sinais em LIBRAS utilizando Redes Neurais Convolucionais (CNNs). |
-| **(Outro Projeto Existente)** | *(Descreva brevemente aqui seu outro projeto já existente.)* |
-| **(Outro Projeto Existente)** | *(Descreva brevemente aqui seu outro projeto já existente.)* |
+
 
 > 📌 *À medida que novos projetos forem adicionados, esta lista será atualizada.*
 
